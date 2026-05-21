@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech (AI & ML)** — Final Year
-- 📝 Published **[MoodChef]([YOUR_PAPER_LINK](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance))** — AI-powered mood-based recipe recommendation system in **IJPREMS (2025)**
+- 📝 Published **[MoodChef](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance)** — AI-powered mood-based recipe recommendation system in **IJPREMS (2025)**
 - 🤖 **Ex-AI Intern @ SmaranAI** — Built LLM-powered educational pipelines, prompt workflows, image annotation & AI content at scale
 - 🌱 Currently deep-diving into **Multi-Agent Systems**
 - 🎯 Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering**
@@ -44,7 +44,7 @@
 An intelligent platform that maps user mood to personalised recipe suggestions. Built recommendation logic integrating mood classification with a curated recipe database.
 **Published as a research paper in IJPREMS (2025).**
 `Python` `AI/ML` `Recommendation Logic` `SQLite`
-→ [View Paper](YOUR_PAPER_LINK) &nbsp;|&nbsp; [GitHub Repo](YOUR_REPO_LINK)
+→ [View Paper](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance) &nbsp;|&nbsp; [GitHub Repo](https://github.com/SaiDeepthi-22/MoodChef)
 
 ---
 
