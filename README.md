@@ -48,18 +48,13 @@ An intelligent platform that maps user mood to personalised recipe suggestions. 
 
 ---
 
-### ✏️ CBSE Question Generator
-Prompt-engineered pipeline that auto-generates CBSE-style questions across subjects and difficulty levels using ChatGPT and Gemini — built during my internship at SmaranAI.
-`Prompt Engineering` `ChatGPT` `Gemini` `EdTech`
-→ [GitHub Repo](YOUR_REPO_LINK)
-
----
-
-### 📊 Data Analytics Projects
-Exploratory data analysis on real-world datasets — uncovering patterns, building visualisations, and turning raw data into actionable insights.
-`Pandas` `NumPy` `EDA` `Data Visualization`
-→ [GitHub Repo](YOUR_REPO_LINK)
-
+🤖 **Ex-AI Intern @ SmaranAI**
+- Designed prompt workflows using ChatGPT & Gemini to auto-generate 
+  CBSE-style questions across subjects and difficulty levels
+- Performed image annotation and AI data labeling
+- Structured Python for Data Science module content
+- Formatted and validated JSON content for platform deployment
+  
 ---
 
 ## 📈 Current Focus
@@ -75,9 +70,8 @@ Exploratory data analysis on real-world datasets — uncovering patterns, buildi
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Research](https://img.shields.io/badge/IJPREMS-Published_2025-2ea44f?style=flat)](YOUR_PAPER_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samatham-sai-deepthi/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](samathamsaideepthi@gmail.com)
 
 📍 Hyderabad, India
 
