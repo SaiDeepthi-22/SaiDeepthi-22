@@ -70,7 +70,7 @@ An intelligent platform that maps user mood to personalised recipe suggestions. 
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samatham-sai-deepthi/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/samatham-sai-deepthi/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](samathamsaideepthi@gmail.com)
 
 📍 Hyderabad, India
