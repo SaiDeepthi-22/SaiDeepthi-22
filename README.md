@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sai Deepthi
+# Hey, I'm Sai Deepthi
 
 ```
  Final-Year B.Tech · AI & Machine Learning · Hyderabad, India
@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **B.Tech (AI & ML)** — Final Year
-- 📝 Published **[MoodChef](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance)** — AI-powered mood-based recipe recommendation system in **IJPREMS (2025)**
-- 🤖 **Ex-AI Intern @ SmaranAI** — Built LLM-powered educational pipelines, prompt workflows, image annotation & AI content at scale
-- 🌱 Currently deep-diving into **Multi-Agent Systems**
-- 🎯 Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering**
+-  **B.Tech (AI & ML)** — Final Year
+-  Published **[MoodChef](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance)** — AI-powered mood-based recipe recommendation system in **IJPREMS (2025)**
+-  **Ex-AI Intern @ SmaranAI** — Built LLM-powered educational pipelines, prompt workflows, image annotation & AI content at scale
+-  Currently deep-diving into **Multi-Agent Systems**
+-  Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering**
 
 ---
 
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 **Languages & Dev**
 `Python` `SQL` `JSON` `Git` `GitHub`
@@ -38,9 +38,9 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🍳 MoodChef — *AI-Powered Recipe Recommendation*
+###  MoodChef — *AI-Powered Recipe Recommendation*
 An intelligent platform that maps user mood to personalised recipe suggestions. Built recommendation logic integrating mood classification with a curated recipe database.
 **Published as a research paper in IJPREMS (2025).**
 `Python` `AI/ML` `Recommendation Logic` `SQLite`
@@ -48,7 +48,7 @@ An intelligent platform that maps user mood to personalised recipe suggestions. 
 
 ---
 
-🤖 **Ex-AI Intern @ SmaranAI**
+ **Ex-AI Intern @ SmaranAI**
 - Designed prompt workflows using ChatGPT & Gemini to auto-generate 
   CBSE-style questions across subjects and difficulty levels
 - Performed image annotation and AI data labeling
@@ -57,7 +57,7 @@ An intelligent platform that maps user mood to personalised recipe suggestions. 
   
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 ```
 🔹 Building AI Agents with LangGraph
@@ -68,10 +68,10 @@ An intelligent platform that maps user mood to personalised recipe suggestions. 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/samatham-sai-deepthi/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](samathamsaideepthi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samatham-sai-deepthi/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:samathamsaideepthi@gmail.com)
 
 📍 Hyderabad, India
 
