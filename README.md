@@ -1,4 +1,4 @@
-# Hey, I'm Sai Deepthi
+# Hey, I'm S.Sai Deepthi
 
 ```
  Final-Year B.Tech · AI & Machine Learning · Hyderabad, India
