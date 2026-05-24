@@ -44,6 +44,7 @@
 An intelligent platform that maps user mood to personalised recipe suggestions. Built recommendation logic integrating mood classification with a curated recipe database.\
 **Published as a research paper in IJPREMS (2025).**
 `Python` `AI/ML` `Recommendation Logic` `SQLite`
+
 → [View Paper](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance) &nbsp;|&nbsp; [GitHub Repo](https://github.com/SaiDeepthi-22/MoodChef)
 
 
