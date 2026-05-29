@@ -6,7 +6,7 @@
 
 > I'm passionate about building AI-powered solutions that solve real-world problems —
 > from intelligent agents to data-driven insights. Currently in my final year, I'm
-> turning curiosity into code, one project at a time.
+> turning curiosity into code.
 
 🔹Published researcher &nbsp;·&nbsp; 🔹 LLM & GenAI Enthusiast &nbsp;·&nbsp; 🔹 Open to AI/ML & Data Roles
 
