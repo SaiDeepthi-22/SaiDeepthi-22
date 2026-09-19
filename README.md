@@ -8,68 +8,78 @@
 > from intelligent agents to data-driven insights. Currently in my final year, I'm
 > turning curiosity into code.
 
-🔹Published researcher &nbsp;·&nbsp; 🔹 LLM & GenAI Enthusiast &nbsp;·&nbsp; 🔹 Open to AI/ML & Data Roles
+🔹 Published researcher &nbsp;·&nbsp; 🔹 LLM & GenAI Enthusiast &nbsp;·&nbsp; 🔹 Open to AI/ML & Data Roles
 
 ---
 
 ## About Me
 
--  **B.Tech (AI & ML)** — Final Year
--  Published **[MoodChef](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance)** — AI-powered mood-based recipe recommendation system in **IJPREMS (2025)**
--  **Ex-AI Intern @ SmaranAI** — Built LLM-powered educational pipelines, prompt workflows, image annotation & AI content at scale
--  Currently deep-diving into **Multi-Agent Systems**
--  Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering**
+- **B.Tech (AI & ML)** — Final Year
+- Currently training in **Python Full Stack with AI** at **10000 Coders**
+- Published **[MoodChef](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance)** — AI-powered mood-based recipe recommendation system in **IJPREMS (2025)**
+- **AI Annotation Specialist Intern @ Tao Digitals** *(Hyderabad)*- AI data annotation and labeling work
+- **Ex-AI Intern @ SmaranAI** — Built LLM-powered educational pipelines, prompt workflows, image annotation & AI content at scale
+- Currently deep-diving into **Multi-Agent Systems**
+- Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering**
 
 ---
 
-##  Tech Arsenal
+## Tech Arsenal
 
 **Languages & Dev**
 `Python` `SQL` `JSON` `Git` `GitHub`
 
 **AI / ML / GenAI**
-`Machine Learning` `Generative AI` `Prompt Engineering` `LLM Applications` `Model Evaluation`
+`Machine Learning` `Generative AI` `RAG` `Prompt Engineering` `LLM Applications` `Model Evaluation`
 
 **Data Analytics**
 `Pandas` `NumPy` `EDA` `Data Cleaning` `Data Visualization`
 
 **Tools & Platforms**
-`Jupyter Notebook` `Google Colab` `VS Code` `ChatGPT API` `Gemini` `Claude`
+`Streamlit` `ChromaDB` `Groq` `Jupyter Notebook` `Google Colab` `VS Code` `ChatGPT API` `Gemini` `Claude`
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  MoodChef — *AI-Powered Recipe Recommendation*
+### MoodChef — *AI-Powered Recipe Recommendation*
+
 An intelligent platform that maps user mood to personalised recipe suggestions. Built recommendation logic integrating mood classification with a curated recipe database.\
 **Published as a research paper in IJPREMS (2025).**
+
 `Python` `AI/ML` `Recommendation Logic` `SQLite`
 
 → [View Paper](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance) &nbsp;|&nbsp; [GitHub Repo](https://github.com/SaiDeepthi-22/MoodChef)
 
+### AI-Based Medical Report Analyzer
 
-### 🩺 AI-Based Medical Report Analyzer
-An intelligent web app that analyzes clinical lab reports and delivers instant 
-health insights — detecting abnormal parameters, calculating severity scores, 
-and providing AI-powered recommendations.
+An intelligent web app that analyzes clinical lab reports and delivers instant health insights — detecting abnormal parameters, calculating severity scores, and providing AI-powered recommendations.
 
 `Python` `Streamlit` `Pandas` `NumPy` `Matplotlib` `pdfplumber` `pytesseract`
 
 → [GitHub Repo](https://github.com/SaiDeepthi-22/AI-Medical-Report-Analyzer)
+
 ---
 
- **Ex-AI Intern @ SmaranAI**
-- Designed prompt workflows using ChatGPT & Gemini to auto-generate 
-  CBSE-style questions across subjects and difficulty levels
+## Experience
+
+**AI Annotation Specialist Intern @ Tao Digitals** *(Hyderabad)*
+
+- AI data annotation and labeling work
+
+**AI Intern @ SmaranAI** *(Jan – Apr 2026, Remote)*
+
+- Designed prompt workflows using ChatGPT & Gemini to auto-generate CBSE-style questions across subjects and difficulty levels
 - Performed image annotation and AI data labeling
 - Structured Python for Data Science module content
 - Formatted and validated JSON content for platform deployment
-  
+
 ---
 
 ## Current Focus
 
 ```
+🔹 Python Full Stack with AI (10000 Coders)
 🔹 Building AI Agents with LangGraph
 🔹 Exploring RAG & LLM Workflows
 🔹 Prompt Engineering for Production
