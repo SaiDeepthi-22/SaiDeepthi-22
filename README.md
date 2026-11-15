@@ -19,6 +19,7 @@
 - Published **[MoodChef](https://www.ijprems.com/research-paper/moodchefmood-based-smart-recipe--recommender-with-cooking-assistance)** — AI-powered mood-based recipe recommendation system in **IJPREMS (2025)**
 - **AI Annotation Specialist Intern @ Tao Digitals** *(Hyderabad)*- AI data annotation and labeling work
 - **Ex-AI Intern @ SmaranAI** — Built LLM-powered educational pipelines, prompt workflows, image annotation & AI content at scale
+- Built **CourseAI**, a full-stack GenAI app that generates personalized courses from any topic, and runs on Mistral, Groq, Gemini or a local Ollama model
 - Currently deep-diving into **Multi-Agent Systems**
 - Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering**
 
@@ -27,20 +28,37 @@
 ## Tech Arsenal
 
 **Languages & Dev**
-`Python` `SQL` `JSON` `Git` `GitHub`
+`Python` `SQL` `JSON` `JavaScript` `Git` `GitHub`
 
 **AI / ML / GenAI**
 `Machine Learning` `Generative AI` `RAG` `Prompt Engineering` `LLM Applications` `Model Evaluation`
+
+**Full Stack & Backend**
+`FastAPI` `React` `Tailwind CSS` `SQLAlchemy` `REST APIs` `JWT Auth`
 
 **Data Analytics**
 `Pandas` `NumPy` `EDA` `Data Cleaning` `Data Visualization`
 
 **Tools & Platforms**
-`Streamlit` `ChromaDB` `Groq` `Jupyter Notebook` `Google Colab` `VS Code` `ChatGPT API` `Gemini` `Claude`
+`Streamlit` `ChromaDB` `Groq` `Ollama` `Mistral` `Jupyter Notebook` `Google Colab` `VS Code` `ChatGPT API` `Gemini` `Claude`
 
 ---
 
 ## Featured Projects
+
+### CourseAI — *AI Course Generator*
+
+A full-stack GenAI web app that turns any topic into a personalized course. Learners pick a topic, difficulty level and available time, and the app generates a syllabus, lessons with real-world and code examples, quizzes and assignments, plus a context-aware AI tutor and progress tracking.
+
+- **Provider-agnostic LLM layer:** one OpenAI-compatible client works with Mistral, Groq, Gemini, OpenAI or a fully local **Ollama** model, switched by editing three `.env` lines
+- **Lazy generation:** the outline appears instantly, and each lesson is generated only when opened
+- **Self-healing JSON pipeline:** retries and asks the model to repair malformed output
+- **Adaptive regeneration:** weak modules are rewritten using the learner's quiz score
+- **FastAPI** backend with JWT auth, SQLite and 7 SQLAlchemy tables; **React + Tailwind** frontend
+
+`Python` `FastAPI` `React` `Tailwind CSS` `SQLAlchemy` `Ollama` `Prompt Engineering` `LLM Applications`
+
+→ [GitHub Repo](https://github.com/SaiDeepthi-22/ai-course-generator)
 
 ### MoodChef — *AI-Powered Recipe Recommendation*
 
