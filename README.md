@@ -21,7 +21,7 @@
 - **Ex-AI Intern @ SmaranAI** — Built LLM-powered educational pipelines, prompt workflows, image annotation & AI content at scale
 - Built **CourseAI**, a full-stack GenAI app that generates personalized courses from any topic, and runs on Mistral, Groq, Gemini or a local Ollama model
 - Currently deep-diving into **Multi-Agent Systems**
-- Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering**
+- Looking for roles in **AI Engineering · GenAI · Data Analytics · Prompt Engineering · Python Developer**
 
 ---
 
